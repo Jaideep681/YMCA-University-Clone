@@ -1,0 +1,4 @@
+Requirements of languages for making YMCA University Clone:-
+1. HTML 5
+2. CSS 3
+3. JS (optional if you make the backend)
